@@ -1,2 +1,41 @@
-# BookSharing-android-project
-Book Sharing is an Android Application that has been created to provide a solution to the students who want to borrow books from other students either from their batch or  from a senior batch.
+# BookSharing Android Project
+
+Book Sharing is an Android Application that has been created to provide a solution to the students who want to borrow books from other students either from their batch or from a senior batch. The application allows students to post images along with the title of the book they are willing to lend and other students can comment to request the book. Students can also view all other students of the batch and can follow them to see their posts.
+
+
+![](application-images/application-HomePage.PNG)
+![](application-images/application-Gallery.PNG)
+![](application-images/application-Login.PNG)
+![](application-images/application-Parking.PNG)
+![](application-images/application-Complaints.PNG)
+![](application-images/application-Notice.PNG)
+![](application-images/application-Visitors.PNG)
+![](application-images/application-Employee.PNG)
+
+## Technologies used in the project
+
+a. Java
+b. Firebase Cloud Database
+c. XML
+d. Android Platform
+e. Android Studio
+
+
+## Scope of Project
+
+* To make an efficient system of looking for books to borrow.
+* To provide one portal to all students in order to connect for help regarding books 
+and notes.
+
+
+## Future Scope
+
+* As the system is scalable, more modules can be added when required.
+* Students can directly be notified via Push Notifications in Android as soon as any book is available.
+* Lender should be able to finalize the borrower so that other borrowers get to know of the status of the book availability has changed.
+* An equivalent application for iOS platform needs to be developed so that iPhone users can also access the app.
+
+## Authors
+
+- [Pradeepraj Nadar](https://github.com/Pradeepraj21/)
+- [Nitish Nagar](https://github.com/nitish-nagar/)
