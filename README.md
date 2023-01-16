@@ -3,9 +3,9 @@
 Book Sharing is an Android Application that has been created to provide a solution to the students who want to borrow books from other students either from their batch or from a senior batch. The application allows students to post images along with the title of the book they are willing to lend and other students can comment to request the book. Students can also view all other students of the batch and can follow them to see their posts.
 
 
-![](application-images/application-homepage-notification.PNG)
-![](application-images/application-registration-login.PNG)
-![](application-images/application-search-profile.PNG)
+![](application-preview-images/application-homepage-notification.PNG)
+![](application-preview-images/application-registration-login.PNG)
+![](application-preview-images/application-search-profile.PNG)
 
 ## Technologies used in the project
 
