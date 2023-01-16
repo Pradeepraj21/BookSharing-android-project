@@ -14,11 +14,11 @@ Book Sharing is an Android Application that has been created to provide a soluti
 
 ## Technologies used in the project
 
-a. Java
-b. Firebase Cloud Database
-c. XML
-d. Android Platform
-e. Android Studio
+1. Java
+2. Firebase Cloud Database
+3. XML
+4. Android Platform
+5. Android Studio
 
 
 ## Scope of Project
